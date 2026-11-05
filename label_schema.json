@@ -1,0 +1,4 @@
+{
+  "box_labels": ["person", "car", "bicycle", "dog", "other"],
+  "event_labels": ["walking", "running", "talking", "driving", "idle"]
+}
